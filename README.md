@@ -32,5 +32,5 @@ Software engineer working across cloud infrastructure, DevOps, and machine learn
 ### Links
 
 - [LinkedIn](https://linkedin.com/in/deepmehta1210)
-- [Email](mailto:contact@deepmehta.dev)
+- [Email](mailto:mehtadeepd@gmail.com)
 - [GitHub](https://github.com/DeepMehta1210)
